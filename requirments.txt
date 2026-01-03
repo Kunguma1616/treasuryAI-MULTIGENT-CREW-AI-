@@ -1,0 +1,4 @@
+crewai
+agentops
+python-dotenv
+groq
